@@ -1,0 +1,9 @@
+### TO DO
+
+[x] Thorchain need install query plus dependancies
+[x] Install DyDX Client SDK
+[] Psydo code to initiate client
+[] Psydo code to get data
+[] Psydo Code to format data
+[] Psydo Code to compare data
+[] Pysdo Code for signals generation
